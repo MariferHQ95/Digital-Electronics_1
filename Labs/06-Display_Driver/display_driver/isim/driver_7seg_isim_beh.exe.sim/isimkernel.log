@@ -1,0 +1,29 @@
+Command line:
+   driver_7seg_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52478
+
+Fri Mar 20 18:54:19 2020
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 4711.24 Meg
+
+ Total Signals          : 19
+ Total Nets             : 57
+ Total Signal Drivers   : 7
+ Total Blocks           : 6
+ Total Primitive Blocks : 5
+ Total Processes        : 4
+ Total Traceable Variables  : 11
+ Total Scalar Nets and Variables : 451
+Total Line Count : 27
+
+ Total Simulation Time: 0.140625 sec
+
+ Current Memory Usage: 5025.82 Meg
+
+Fri Mar 20 18:54:52 2020
+

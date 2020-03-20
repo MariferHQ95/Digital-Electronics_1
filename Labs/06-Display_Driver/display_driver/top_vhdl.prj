@@ -1,0 +1,4 @@
+vhdl work "C:\Labs\display_driver\hex_to_7seg.vhd"
+vhdl work "C:\Labs\display_driver\clock_enable.vhd"
+vhdl work "C:\Labs\display_driver\driver_7seg.vhd"
+vhdl work "C:\Labs\display_driver\top.vhd"

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/lab661/Documents/MariferHQ/Digital-electronics-1/Labs/05-Binary/binary_counter/clock_enable_o_process_isim_beh.exe" -prj "/home/lab661/Documents/MariferHQ/Digital-electronics-1/Labs/05-Binary/binary_counter/clock_enable_o_process_beh.prj" "work.clock_enable_o_process" 

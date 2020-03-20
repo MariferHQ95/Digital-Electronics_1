@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Labs/display_driver/top.xst" -ofn "C:/Labs/display_driver/top.syr" 
